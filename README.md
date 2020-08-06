@@ -13,6 +13,8 @@ The most difficult part of Unreal was the steep learning curve. Coming from a pr
 
 The most interesting part of this development process was the vast amount of options Unreal has. A Flappy Bird remake was my original idea because I wanted to recreate a simple game. But it seems Unreal has many prebuilt templates to help you get started with complex games easily. I found it very interesting exploring the options and customisability Unreal offers, and am excited to dive deeper into this.
 
+In terms of gameplay, the most interesting part I believe are the cool effects the player portrays onto the environment. I like the glow reflection the player gives off on the objects around it. The explosion effect when the cube dies is also quite interesting.
+
 ### Assignment Checklist (for marker)
 I believe I have achieved all the Assignment tasks that have solidified my understanding of Unreal.
 
